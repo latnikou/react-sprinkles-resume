@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-sprinkles-resume/static/css/main.c91ca4c6.css",
+    "main.js": "/react-sprinkles-resume/static/js/main.433fa28d.js",
+    "static/media/avatar-1.svg": "/react-sprinkles-resume/static/media/avatar-1.f8635efaa06e11866032f9b1425dbfeb.svg",
+    "static/media/service-2.svg": "/react-sprinkles-resume/static/media/service-2.5c151f1353d4629154fbf0e537115128.svg",
+    "static/media/service-1.svg": "/react-sprinkles-resume/static/media/service-1.67d34dc7405c4c610816d0f26e5461ec.svg",
+    "static/media/service-3.svg": "/react-sprinkles-resume/static/media/service-3.e64b9c4b2a4b79f45375cc7bb644a570.svg",
+    "static/media/dots-bg.svg": "/react-sprinkles-resume/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
+    "static/media/logo.svg": "/react-sprinkles-resume/static/media/logo.631f5bf388dae46dbd22a287ec53af53.svg",
+    "index.html": "/react-sprinkles-resume/index.html",
+    "main.c91ca4c6.css.map": "/react-sprinkles-resume/static/css/main.c91ca4c6.css.map",
+    "main.433fa28d.js.map": "/react-sprinkles-resume/static/js/main.433fa28d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c91ca4c6.css",
+    "static/js/main.433fa28d.js"
+  ]
+}
